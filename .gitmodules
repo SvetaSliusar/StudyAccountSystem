@@ -1,3 +1,6 @@
 [submodule "WebAPI"]
 	path = WebAPI
 	url = https://github.com/SvetaSliusar/WebAPI.git
+[submodule "Angular-Project"]
+	path = Angular-Project
+	url = https://github.com/SvetaSliusar/Angular-Project.git
